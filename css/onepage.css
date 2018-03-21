@@ -796,6 +796,16 @@ ul.top-right li a:hover.instagram{
 
 
 /* ------------ Banner With Text Rotator ------------ */
+.produk-rotator{
+	background:url("../images/fwc_centre.png");
+	padding-top:200px;
+	background-size:cover;
+	background-position:center center;
+	width:100%;
+}
+.produk-rotator #paralax-slider{
+	padding:15% 0;
+}
 .text-rotator{
 	background:url("../images/paralax-index1.jpg");
 	padding-top:200px;
@@ -2307,6 +2317,9 @@ ul.category li a .date{
 .navbar-default .navbar-nav > li > a {
   letter-spacing: 0;
 }
+.produk-rotator {
+	padding-top:150px;
+  }
 .text-rotator {
   padding-top:150px;
 }
@@ -2326,6 +2339,9 @@ margin-bottom:30px;
 .pricing_item {
 flex: 0 1 320px;
 }
+#bg-paralax , #testinomial, .produk-rotator{
+	background-position:center center !important;
+  }	
 #bg-paralax , #testinomial, .text-rotator{
   background-position:center center !important;
 }	
@@ -2377,6 +2393,9 @@ margin-top: 30px;
   font-size:12px;
   padding: 8px 15px;
 }
+.produk-rotator {
+	padding-top:80px;
+  }
 .text-rotator {
   padding-top:80px;
 }
