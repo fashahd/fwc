@@ -467,7 +467,11 @@ ul.top-right li a:hover,
 	z-index:999;
 	width: 100%;
 
-}	
+}
+#navigation {
+	background:#fff;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 .navbar-default {
   background-color: transparent;
   border-color: transparent;
@@ -783,28 +787,32 @@ ul.top-right li a:hover.instagram{
 	color:#82b440;
 }
 
-
-
-
-
-
-
-
-
 /* ------------ Main Banner ------------ */
 
 
 
 /* ------------ Banner With Text Rotator ------------ */
-.produk-rotator{
-	background:url("../images/fwc_centre.png");
+.about-rotator{;
+	/* margin-top : 1px; */
+	background:url("../images/banner-about.png");
 	padding-top:200px;
 	background-size:cover;
 	background-position:center center;
 	width:100%;
 }
+.about-rotator #paralax-slider{
+	padding:5% 0 20% 0;
+}
+.produk-rotator{;
+	margin-top : 180px;
+	background:url("../images/fwc_centre.png");
+	padding-top:60px;
+	background-size:cover;
+	background-position:center center;
+	width:100%;
+}
 .produk-rotator #paralax-slider{
-	padding:15% 0;
+	padding:5% 0;
 }
 .text-rotator{
 	background:url("../images/paralax-index1.jpg");
@@ -821,8 +829,18 @@ ul.top-right li a:hover.instagram{
 	font-size:20px;
 	text-transform:uppercase;
 }
+#paralax-slider .item-content h3{
+	color: #6BB156;
+	font-weight: 300;
+	line-height: 1.6;
+}
+#paralax-slider .item-content h4{
+	color: #000;
+	font-weight: 300;
+	line-height: 2.4;
+}
 #paralax-slider .item-content p ,#paralax-slider .item-content h2{
-		color:#fff;
+	color:#fff;
 }
 #paralax-slider .item-content h2{
 	font-size:58px;
@@ -904,6 +922,46 @@ ul.top-right li a:hover.instagram{
 
 
 
+
+/* ------------ Paralax background ------------ */
+.myDiv{
+	position:relative; 
+	z-index: 1;
+	padding:200px 0 200px 0;
+}
+.myDiv #bg-about {
+	position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: url("../images/paralax-index3.jpg") center center;
+    opacity: .2;
+    width: 100%;
+    height: 100%;
+}
+#bg-about , #testinomial{
+	background-size:cover;
+	background-position:center center;
+	background-attachment:fixed;
+	width:100%;
+}
+
+.myDiv p{
+	color: #000;
+	text-align: right;
+	line-height: 2.5;
+	font-size:14pt;
+}
+.myDiv h2{
+	text-align: right;
+	font-size: 20pt;
+	color: #82B440;
+	margin-bottom: 30px;
+}
+  /* ------------ Paralax background ------------ */
+
 /* ------------ Paralax background ------------ */
 #bg-paralax {
   background:url("../images/paralax-index2.jpg") no-repeat;
@@ -923,6 +981,10 @@ ul.top-right li a:hover.instagram{
 }
 #bg-paralax h2{
 	font-size:48px;
+}
+#bg-paralax h1{
+	font-size:80px;
+	text-shadow: 2px 2px 4px #666;
 }
 /* ------------ Paralax background ------------ */
 
@@ -1715,6 +1777,8 @@ ul.top-right li a:hover.instagram{
   color: #fff;
   font-size: 20px;
   margin: 10px 0;
+  font-weight: 200;
+  line-height: 2;
 }
 /* ------------ Slogan Text with Button ------------ */
 
@@ -1753,7 +1817,7 @@ ul.top-right li a:hover.instagram{
 #contact .form-inline .form-control, #contact .form-inline textarea {
   border: 1px solid #d0d0d0;
   border-radius: 0;
-  color: #4c4c4c;
+  color: #fff;
   font-size: 14px;
   padding: 15px;
   width: 100%;
@@ -1781,6 +1845,14 @@ ul.top-right li a:hover.instagram{
 	width:100%;
 	height:100%;
 	background-color:transparent;
+}	
+#contact .form-inline input{
+	background:transparent;
+	color: #fff;
+}
+#contact .form-inline textarea{
+	background:transparent;
+	color: #fff;
 }
 /* ------------ Contact Us ------------ */
 
@@ -1793,9 +1865,13 @@ footer{
 	padding:35px 0;
 	position:relative;
 }
+footer h5{
+	font-weight: 600;
+	margin-bottom: 40px;
+}
 footer p{
 	margin:0;
-	color:#a6a6a6;
+	color:#666;
 	font-size:14px;
 }
 footer .breadcrumb{
@@ -1804,13 +1880,18 @@ footer .breadcrumb{
 }
 
 footer .breadcrumb li a {
-  text-shadow: none;
-  color:#fff;
+  	text-shadow: none;
+  	color:#666;
 	font-size:14px;
 	position:relative;
+	line-height: 2;
 }
 footer .breadcrumb li a:hover, footer .breadcrumb li a:focus{
   color: #82b440;
+}
+
+footer hr{
+	margin: 0px;
 }
 
 .go-top {
@@ -2317,6 +2398,9 @@ ul.category li a .date{
 .navbar-default .navbar-nav > li > a {
   letter-spacing: 0;
 }
+.about-rotator {
+	padding-top:150px;
+  }
 .produk-rotator {
 	padding-top:150px;
   }
@@ -2339,6 +2423,9 @@ margin-bottom:30px;
 .pricing_item {
 flex: 0 1 320px;
 }
+#bg-paralax , #testinomial, .about-rotator{
+	background-position:center center !important;
+  }	
 #bg-paralax , #testinomial, .produk-rotator{
 	background-position:center center !important;
   }	
@@ -2393,9 +2480,12 @@ margin-top: 30px;
   font-size:12px;
   padding: 8px 15px;
 }
+.about-rotator {
+	padding-top:80px;
+}
 .produk-rotator {
 	padding-top:80px;
-  }
+}
 .text-rotator {
   padding-top:80px;
 }
