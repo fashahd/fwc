@@ -838,6 +838,7 @@ ul.top-right li a:hover.instagram{
 	color: #000;
 	font-weight: 300;
 	line-height: 2.4;
+	text-transform: none;
 }
 #paralax-slider .item-content p ,#paralax-slider .item-content h2{
 	color:#fff;

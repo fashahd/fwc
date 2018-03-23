@@ -1,29 +1,7 @@
 <!doctype html>
 <html lang="en">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<title>FWC</title>
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="css/icomoon-fonts.css">
-<link rel="stylesheet" type="text/css" href="css/animate.min.css">
-<link rel="stylesheet" type="text/css" href="css/settings.css">
-<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
-<link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
-<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css">
-<link rel="stylesheet" type="text/css" href="css/zerogrid.css">
-<link rel="stylesheet" type="text/css" href="css/jPushMenu.css">
-<link href='https://fonts.googleapis.com/css?family=Raleway:100,200,300,400%7COpen+Sans:400,300' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="css/onepage.css">
 
-<link rel="stylesheet" type="text/css" href="css/loader-colorful.css">
-
-<link rel="shortcut icon" href="images/favicon.png">
-
-    
-</head>
+<?php include 'source.php' ?>
 
 <body id="page-top" data-spy="scroll" data-target="#fixed-collapse-navbar" data-offset="120">
 
@@ -50,31 +28,34 @@
   </div>
 </section><!-- What We Do Section -->
 <section class="we-do bg-white padding">
+	<h2 style="text-align:center;color:#A3CD69;margin: -50px 0 30px 0">Pilihan Produk</h2>
   <div class="container">
     <div class="row">
 		<div class="col-lg-12">
-			<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<img src="images/blue_sky.jpg" style="width:100%"></img> 
-				<div class="do-wrap text-center" style="color:#a3cd69">
-					<a href="#." class="readmore white-text">Sky Blue Closet</a>
-				</div> 
-			</div>
-			<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<img src="images/pink.jpg" style="width:100%"></img> 
-				<div class="do-wrap text-center" style="color:#a3cd69">
-					<a href="#." class="readmore white-text">Pink Closet</a>
-				</div>  
-			</div>
-			<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<img src="images/opaque.jpg" style="width:100%"></img> 
-				<div class="do-wrap text-center" style="color:#a3cd69">
-					<a href="#." class="readmore white-text">Opaque Closet</a>
+			<div class="slider">
+				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<img src="images/blue_sky.jpg" style="width:100%"></img> 
+					<div class="do-wrap text-center" style="color:#a3cd69">
+						<a href="#." class="readmore white-text">Sky Blue Closet</a>
+					</div> 
 				</div>
-			</div>
-			<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<img src="images/ivory.jpg" style="width:100%"></img> 
-				<div class="do-wrap text-center" style="color:#a3cd69">
-					<a href="#." class="readmore white-text">Ivory Closet</a>
+				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<img src="images/pink.jpg" style="width:100%"></img> 
+					<div class="do-wrap text-center" style="color:#a3cd69">
+						<a href="#." class="readmore white-text">Pink Closet</a>
+					</div>  
+				</div>
+				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<img src="images/opaque.jpg" style="width:100%"></img> 
+					<div class="do-wrap text-center" style="color:#a3cd69">
+						<a href="#." class="readmore white-text">Opaque Closet</a>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<img src="images/ivory.jpg" style="width:100%"></img> 
+					<div class="do-wrap text-center" style="color:#a3cd69">
+						<a href="#." class="readmore white-text">Ivory Closet</a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -161,25 +142,16 @@
 
  <a href="#." class="go-top text-center"><i class="fa fa-angle-double-up"></i></a>
 
-<script src="js/jquery-2.1.4.js"></script> 
-<script src="js/bootstrap.min.js"></script>
-
-<script src="js/jquery.themepunch.tools.min.js"></script>
-<script src="js/jquery.themepunch.revolution.min.js"></script>
-<script src="js/jquery.easing.min.js"></script>
-<script src="js/owl.carousel.min.js"></script> 
-<script src="js/jquery-countTo.js"></script> 
-<script src="js/jquery.appear.js"></script> 
-<script src="js/jquery.circliful.js"></script>
-<script src="js/jquery.mixitup.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/jquery.parallax-1.1.3.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/jquery.fancybox-thumbs.js"></script>
-<script src="js/jquery.fancybox-media.js"></script>
-<script src="js/jPushMenu.js"></script>
-<script src="js/functions.js"></script>
- 
-
+<?php include 'sourcejs.php' ?>
+<script>
+	$('.slider').slick({
+    slidesToShow: 4,
+    slidesToScroll: 4,
+    dots: true,
+    infinite: true,
+    cssEase: 'linear',
+		arrows: true,
+});
+</script>
 </body>
 </html>

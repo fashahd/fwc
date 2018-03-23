@@ -1,29 +1,7 @@
 <!doctype html>
 <html lang="en">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<title>FWC</title>
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="css/icomoon-fonts.css">
-<link rel="stylesheet" type="text/css" href="css/animate.min.css">
-<link rel="stylesheet" type="text/css" href="css/settings.css">
-<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
-<link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
-<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css">
-<link rel="stylesheet" type="text/css" href="css/zerogrid.css">
-<link rel="stylesheet" type="text/css" href="css/jPushMenu.css">
-<link href='https://fonts.googleapis.com/css?family=Raleway:100,200,300,400%7COpen+Sans:400,300' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="css/onepage.css">
 
-<link rel="stylesheet" type="text/css" href="css/loader-colorful.css">
-
-<link rel="shortcut icon" href="images/favicon.png">
-
-    
-</head>
+<?php include 'source.php' ?>
 
 <body id="page-top" data-spy="scroll" data-target="#fixed-collapse-navbar" data-offset="120">
 
@@ -57,47 +35,50 @@
   </div>
 </section><!-- What We Do Section -->
 <section class="we-do bg-white padding">
+	<h2 style="text-align:center;color:#A3CD69;margin: -50px 0 30px 0">Pilihan Produk</h2>
   <div class="container">
     <div class="row">
-		<div class="col-lg-12">
-			<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<img src="images/blue_sky.jpg" style="width:100%"></img> 
-				<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
-					<a href="#." class="readmore white-text">Sky Blue Closet</a>
-				</div> 
-				<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
-					<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
-				</div> 
-			</div>
-			<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<img src="images/pink.jpg" style="width:100%"></img> 
-				<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
-					<a href="#." class="readmore white-text">Pink Closet</a>
-				</div> 
-				<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
-					<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
-				</div>  
-			</div>
-			<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<img src="images/opaque.jpg" style="width:100%"></img> 
-				<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
-					<a href="#." class="readmore white-text">Opaque Closet</a>
-				</div> 
-				<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
-					<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
-				</div>  
-			</div>
-			<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<img src="images/ivory.jpg" style="width:100%"></img> 
-				<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
-					<a href="#." class="readmore white-text">Ivory Closet</a>
-				</div>  
-				<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
-					<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
-				</div> 
+			<div class="col-lg-12">
+				<div class="slider">
+					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/blue_sky.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Sky Blue Closet</a>
+						</div> 
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div> 
+					</div>
+					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/pink.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Pink Closet</a>
+						</div> 
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div>  
+					</div>
+					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/opaque.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Opaque Closet</a>
+						</div> 
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div>  
+					</div>
+					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/ivory.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Ivory Closet</a>
+						</div>  
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div> 
+					</div>
+				</div>
 			</div>
 		</div>
-    </div>
   </div>
 </section>
 
@@ -109,12 +90,6 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-sm-6 canvas-box magin30 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms"> 
-				<span class="text-center"><img src="images/time.png"/></span>
-				<h4 style="color:#fff" >Lebih Cepat & Lancar</h4>
-				<p style="color:#fff" >Rata-rata waktu BAB dengan posisi jongkok dua kali lebih cepat dari rata-rata BAB dengan posisi duduk. Karena saat berjongkok
-posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
-			</div>
-			<div class="col-md-6 col-sm-6 canvas-box magin30 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms"> 
 				<span class="text-center"><img src="images/medical.png"/></span>
 				<h4 style="color:#fff" >Desain Ergonomis</h4>
 				<p style="color:#fff" >Dirancang dengan lebar dan panjang yang mengikuti bentuk tubuh manusia ketika sedang berjongkok, sehingga membuat nyaman dan kotoran dapat jatuh pada tempatnya dengan tepat.</p>
@@ -124,20 +99,28 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 				<h4 style="color:#fff" >Hemat Air</h4>
 				<p style="color:#fff" >Pemakaian air lebih hemat karena dirancang dengan kalkulasi aerodinamis sehingga terjadi suction effect saat penyiraman.</p>
 			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 col-sm-6 canvas-box magin30 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms"> 
+				<span class="text-center"><img src="images/leaf.png"/></span>
+				<h4 style="color:#fff" >Tidak Lengket</h4>
+				<p style="color:#fff" >Dibuat dengan formulasi lapisan active hygine, kotoran menjadi tidak mudah lengket, sehingga kloset senantiasa bersih dan tidak bau</p>
+			</div>
 			<div class="col-md-6 col-sm-6 canvas-box magin30 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms"> 
 				<span class="text-center"><img src="images/clock.png"/></span>
 				<h4 style="color:#fff" >Pijakan Cepat Kering</h4>
 				<p style="color:#fff" >Pijakan dirancang sedikit miring untuk memastikan minimalnya air yang tergenang di area pijakan toilet.</p>
 			</div>
 			<div class="col-md-6 col-sm-6 canvas-box magin30 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms"> 
-				<span class="text-center"><img src="images/leaf.png"/></span>
-				<h4 style="color:#fff" >Lebih Bersih</h4>
-				<p style="color:#fff" >Lapisan active hygiene dapat menghambat pertumbuhan bakteri di permukaan toilet.</p>
+				<span class="text-center"><img src="images/shield.png"/></span>
+				<h4 style="color:#fff" >Bakteriostatis</h4>
+				<p style="color:#fff" >Dibuat dengan formulasi lapisan active hygiene, kotoran menjadi tidak mudah lengket, sehingga kloset senantiasa bersih dan tidak bau.</p>
 			</div>
 			<div class="col-md-6 col-sm-6 canvas-box magin30 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms"> 
-				<span class="text-center"><img src="images/shield.png"/></span>
-				<h4 style="color:#fff" >Anti Bakteri</h4>
-				<p style="color:#fff" >Dibuat dengan formulasi lapisan active hygiene, kotoran menjadi tidak mudah lengket, sehingga kloset senantiasa bersih dan tidak bau.</p>
+				<span class="text-center"><img src="images/time.png"/></span>
+				<h4 style="color:#fff" >Lebih Cepat & Lancar</h4>
+				<p style="color:#fff" >Rata-rata waktu BAB dengan posisi jongkok dua kali lebih cepat dari rata-rata BAB dengan posisi duduk. Karena saat berjongkok
+posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 			</div>
 		</div>
 	</div>
@@ -148,10 +131,9 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 	<h2 style="text-align:center;color:#fff;margin: -50px 0 30px 0">Apa Kata Mereka</h2>
   <div class="container-fluid">
     <div class="row responsive-pic">
-			<div class="col-md-2 col-lg-2">
-			</div>
 			<div class="container wow fadeInRight" data-wow-duration="500ms" data-wow-delay="900ms">
 				<div class="row">
+					<div class="col-lg-2"></div>
 					<div class="col-md-5 col-sm-5" style="background:#fff;padding:50px;margin-left:30px">
 						<div class="col-lg-10" style="margin-right:-10px">
 							<h3>“Setelah beli toilet FWC
@@ -175,8 +157,6 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-2 col-lg-2">
-			</div>
     </div>
   </div>
 </section>
@@ -191,10 +171,11 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 				</div>
 				<div class="col-md-5 col-sm-5" style="background:#a3cd69;padding:50px">
 					<h2>Tentang FWC Peduli</h2><br><br>
-					<p>Melalui Program FWC Peduli, tim kami menggunakan
-	sebagian dari keuntungan penjualan toilet FWC untuk
+					<p>Melalui Program FWC Peduli, FWC menggunakan
+	sebagian dari keuntungan penjualan produk FWC untuk
 	pembangunan toilet di wilayah yang belum
-	mendapatkan akses toilet.</p>
+	mendapatkan akses toilet untuk mewujudkan misi kami, <b>Toilet untuk semua</b>.</p>
+					<p>Ingin tahu lebih lanjut? Kunjungi <a href="about.php#fwc_peduli">"Mengapa FWC Peduli"</a></p>
 				</div>
 			</div>
 		</div>
@@ -205,10 +186,10 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 <section id="slogan" class="wow fadeIn" data-wow-duration="500ms" data-wow-delay="300ms"> 
   <div class="container">
     <div class="row">
-		<div class="col-md-12">
-			<h5 class="hidden">hiddens</h5>
-			<h2 class="text-center">Video Kami</h2>
-		</div>
+			<div class="col-md-12" style="padding: 60px 0 60px 0">
+				<h5 class="hidden">hiddens</h5>
+				<h1 class="text-center">Video Kami</h1>
+			</div>
     </div>
   </div>
 </section>
@@ -313,25 +294,17 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 
  <a href="#." class="go-top text-center"><i class="fa fa-angle-double-up"></i></a>
 
-<script src="js/jquery-2.1.4.js"></script> 
-<script src="js/bootstrap.min.js"></script>
 
-<script src="js/jquery.themepunch.tools.min.js"></script>
-<script src="js/jquery.themepunch.revolution.min.js"></script>
-<script src="js/jquery.easing.min.js"></script>
-<script src="js/owl.carousel.min.js"></script> 
-<script src="js/jquery-countTo.js"></script> 
-<script src="js/jquery.appear.js"></script> 
-<script src="js/jquery.circliful.js"></script>
-<script src="js/jquery.mixitup.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/jquery.parallax-1.1.3.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/jquery.fancybox-thumbs.js"></script>
-<script src="js/jquery.fancybox-media.js"></script>
-<script src="js/jPushMenu.js"></script>
-<script src="js/functions.js"></script>
- 
-
+<?php include 'sourcejs.php' ?>
+<script>
+	$('.slider').slick({
+    slidesToShow: 4,
+    slidesToScroll: 4,
+    dots: true,
+    infinite: true,
+    cssEase: 'linear',
+		arrows: true,
+});
+</script>
 </body>
 </html>

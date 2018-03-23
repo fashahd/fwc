@@ -44,8 +44,8 @@
                     <div class="col-md-6">
                         <div class="item-content text-left">
                             <h3>Sekilas Tentang FWC</h3><br>
-                            <h4>FWC Bergerak dalam bisnis sanitasi dengan fokus estetika, ergonomis, dan fungsional. Kami Berusaha
-                                sebaik mungkin untuk memberikan produk terbaik untuk konsumen dengan harga terjangkau. Karena kami percaya bahwa
+                            <h4>FWC bergerak dalam bisnis sanitasi dengan fokus estetika, ergonomis, dan fungsional. Kami Berusaha
+                                sebaik mungkin untuk memberikan <b>produk terbaik</b> untuk konsumen dengan <b>harga terjangkau</b>. Karena kami percaya bahwa
                                 setiap orang berhak memiliki rasa nyaman dan menikmati hidup nyaman.
                             </h4>
                         </div>
@@ -79,7 +79,7 @@ mendapatkan akses toilet.</p>
     <section id="bg-paralax">
         <div class="container">
             <div class="row">
-                <div class="col-md-5 col-sm-5" style="padding-bottom: 280px">
+                <div class="col-md-5 col-sm-5" style="padding-bottom: 280px" id="fwc_peduli">
                     <h1>FWC Peduli</h1>
                 </div>
             </div>
