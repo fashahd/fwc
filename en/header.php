@@ -28,7 +28,7 @@
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fixed-collapse-navbar" aria-expanded="true"> 
 				<span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> 
 				</button>
-				<a href="index.php" class="navbar-brand logo" href="#."><img src="../images/logo-white.png" alt="logo" class="img-responsive"></a> 
+				<a href="index.php" class="navbar-brand logo" href="#."><img src="images/logo-white.png" alt="logo" class="img-responsive"></a> 
 			</div>
 			
 			
@@ -51,7 +51,7 @@
 						<a href="contactus.php" class="page-scroll">Hubungi Kami</a>
 					</li>					
 					<li>
-						<a href="../" class="page-scroll"><img src="../images/id.jpg"/></a>
+						<a href="../" class="page-scroll"><img src="images/id.jpg"/></a>
 					</li>
 				</ul>
 				</div>
