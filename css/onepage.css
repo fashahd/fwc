@@ -768,6 +768,10 @@ ul.top-right li a:hover.instagram{
 .testimoni .avatar img{
 	width : 100%;
 }
+	
+.testimoni .text h3, h5, p{
+	text-transform: unset;
+}
 
 @media only screen and (max-width: 600px) {
     .testimoni{
