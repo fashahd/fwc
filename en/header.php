@@ -6,7 +6,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="row" style="margin-top:10px;margin-bottom:-20px">
-						<div class="col-lg-6">
+						<div class="col-lg-8">
 							<!--<li><a href="#." class="facebook"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="#." class="twitter"><i class="fa fa-twitter"></i></a></li>
 							<li><a href="#." class="instagram"><i class="icon-instagram"></i></a></li>-->
@@ -50,7 +50,7 @@
 									<a href="contactus.php" class="page-scroll">Hubungi Kami</a>
 								</li>					
 								<li>
-									<a href="en/" class="page-scroll"><img src="images/en.jpg"/></a>
+									<a href="../" class="page-scroll"><img src="images/id.jpg"/></a>
 								</li>
 							</ul>
 						</div>
