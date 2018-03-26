@@ -32,7 +32,7 @@
     <div class="row">
 			<div class="col-lg-12">
 				<div class="slider">
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 						<img src="images/blue_sky.jpg" style="width:100%"></img> 
 						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
 							<a href="#." class="readmore white-text">Sky Blue Closet</a>
@@ -41,7 +41,7 @@
 							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
 						</div> 
 					</div>
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 						<img src="images/pink.jpg" style="width:100%"></img> 
 						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
 							<a href="#." class="readmore white-text">Pink Closet</a>
@@ -50,7 +50,7 @@
 							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
 						</div>  
 					</div>
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 						<img src="images/opaque.jpg" style="width:100%"></img> 
 						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
 							<a href="#." class="readmore white-text">Opaque Closet</a>
@@ -59,7 +59,7 @@
 							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
 						</div>  
 					</div>
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 						<img src="images/ivory.jpg" style="width:100%"></img> 
 						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
 							<a href="#." class="readmore white-text">Ivory Closet</a>
@@ -68,7 +68,7 @@
 							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
 						</div> 
 					</div>
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 						<img src="images/ivory.jpg" style="width:100%"></img> 
 						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
 							<a href="#." class="readmore white-text">Ivory Closet</a>
@@ -77,7 +77,7 @@
 							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
 						</div> 
 					</div>
-					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 						<img src="images/ivory.jpg" style="width:100%"></img> 
 						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
 							<a href="#." class="readmore white-text">Ivory Closet</a>
@@ -139,36 +139,64 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 <!-- Responsive image with left -->
 <section id="responsive" class="padding" style="background:#d0e5b3">
 	<h2 style="text-align:center;color:#fff;margin: -50px 0 30px 0">Apa Kata Mereka</h2>
-  <div class="container-fluid">
-    <div class="row responsive-pic">
+	<div class="container-fluid">
+		<div class="row responsive-pic">
 			<div class="container wow fadeInRight" data-wow-duration="500ms" data-wow-delay="900ms">
 				<div class="row">
-					<div class="col-lg-2"></div>
-					<div class="col-md-5 col-sm-5" style="background:#fff;padding:50px;margin-left:30px">
-						<div class="col-lg-10" style="margin-right:-10px">
-							<h3>“Setelah beli toilet FWC
-							untuk proyek saya, semua
-							proyek lain saya hanya
-							mau pakai FWC saja.
-							Barangnya kuat dan
-							mengkilap, pengiriman
-							cepat, dan harganya juga
-							bagus. Kalau pakai merk
-							lain, kadang satu dua 
-							produk yang harus di retur,
-							kalau FWC 100% kualitas
-							super.”</h3><br><br>
-							<p>Budiman Nyotowidjojo</p>
-							<h5><b>KONTRAKTOR</b></h5>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-3" style="margin-left:-17px"> 
-						<img src="images/testimoni.jpg" alt="fully responsive" class="img-responsive"> 
+					<div class="testi-slider">
+					<ul>
+						<li>
+							<div class="testimoni">
+								<div class="text">
+									<h3>“Setelah beli toilet FWC
+									untuk proyek saya, semua
+									proyek lain saya hanya
+									mau pakai FWC saja.
+									Barangnya kuat dan
+									mengkilap, pengiriman
+									cepat, dan harganya juga
+									bagus. Kalau pakai merk
+									lain, kadang satu dua 
+									produk yang harus di retur,
+									kalau FWC 100% kualitas
+									super.”</h3><br><br>
+									<p>Budiman Nyotowidjojo</p>
+									<h5><b>KONTRAKTOR</b></h5>
+								</div>
+								<div class="avatar">
+									<img src="images/testimoni.jpg" alt="fully responsive"> 
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="testimoni">
+								<div class="text">
+									<h3>“Setelah beli toilet FWC
+									untuk proyek saya, semua
+									proyek lain saya hanya
+									mau pakai FWC saja.
+									Barangnya kuat dan
+									mengkilap, pengiriman
+									cepat, dan harganya juga
+									bagus. Kalau pakai merk
+									lain, kadang satu dua 
+									produk yang harus di retur,
+									kalau FWC 100% kualitas
+									super.”</h3><br><br>
+									<p>Budiman Nyotowidjojo</p>
+									<h5><b>KONTRAKTOR</b></h5>
+								</div>
+								<div class="avatar">
+									<img src="images/testimoni.jpg" alt="fully responsive"> 
+								</div>
+							</div>
+						</li>
+					</ul>
 					</div>
 				</div>
 			</div>
-    </div>
-  </div>
+		</div>
+	</div>
 </section>
 
 
@@ -308,13 +336,33 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 <?php include 'sourcejs.php' ?>
 <script>
 	$('.slider').slick({
-    slidesToShow: 4,
-    slidesToScroll: 4,
-    dots: true,
-    infinite: true,
-    cssEase: 'linear',
-		arrows: true,
-});
+		slidesToShow: 4,
+		slidesToScroll: 4,
+		dots: true,
+		infinite: true,
+		cssEase: 'linear',
+			arrows: true,
+		responsive: [
+			{
+				breakpoint: 980, // tablet breakpoint
+				settings: {
+					slidesToShow: 3,
+					slidesToScroll: 3
+				}
+			},
+			{
+				breakpoint: 480, // mobile breakpoint
+				settings: {
+					slidesToShow: 2,
+					slidesToScroll: 2
+				}
+			}
+		]
+	});
+	$('.testi-slider').unslider({
+		// autoplay: true,
+		infinite: true,
+	});
 </script>
 </body>
 </html>
