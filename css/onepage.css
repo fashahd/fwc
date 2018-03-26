@@ -508,7 +508,7 @@ ul.top-right li a:hover,
   color: #000;
   font-size:12px;
   letter-spacing:1px;
-  padding:37px 0 15px 0;
+  padding:47px 0 15px 0;
   border-bottom:3px solid transparent;
 }
 #navigation.affix .navbar-default .navbar-nav > li > a{
@@ -977,7 +977,7 @@ ul.top-right li a:hover.instagram{
 #bg-paralax , #testinomial{
   background-size:cover;
   background-position:center center;
-  background-attachment:fixed;
+  /* background-attachment:fixed; */
   width:100%;
 }
 

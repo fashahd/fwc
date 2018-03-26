@@ -68,6 +68,24 @@
 							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
 						</div> 
 					</div>
+					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/ivory.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Ivory Closet</a>
+						</div>  
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div> 
+					</div>
+					<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/ivory.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Ivory Closet</a>
+						</div>  
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div> 
+					</div>
 				</div>
 			</div>
 		</div>
