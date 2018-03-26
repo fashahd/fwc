@@ -744,9 +744,62 @@ ul.top-right li a:hover.instagram{
 }
 
  
+.testimoni{
+	width: 100%;
+	height: 500px;
+	margin-left: 230px;
+}
 
+.testimoni .text{
+	background: #fff;
+	padding: 35px;
+	width : 30%;
+	margin: 0 auto;
+	/* display: inline-block; */
+	float: left;
+}
 
+.testimoni .avatar{
+	width: 30%;
+	margin: 0 auto;
+	display: inline-block;
+}
 
+.testimoni .avatar img{
+	width : 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .testimoni{
+		width: 100%;
+		margin-left: 0px;
+	}
+	
+	.testimoni .text{
+		background: #fff;
+		padding: 35px;
+		width : 50%;
+		margin: 0 auto;
+		float: left;
+		height: 500px;
+	}
+	
+	.testimoni .text h3, h5, p{
+		text-transform: unset;
+		font-weight: 300;
+		font-size: 10pt;
+	}
+
+	.testimoni .avatar{
+		width: 50%;
+		margin: 0 auto;
+		display: inline-block;
+	}
+	
+	.testimoni .avatar img{
+		height: 500px;
+	}
+}
 
 /* ------------ Main Banner ------------ */
 #main-slider { color:#fff;}

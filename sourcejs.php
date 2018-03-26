@@ -18,4 +18,5 @@
 <script src="js/jquery.fancybox-media.js"></script>
 <script src="js/jPushMenu.js"></script>
 <script src="js/functions.js"></script>
+<script src="js/unslider.js"></script>
 <script src="slick/slick.min.js"></script>

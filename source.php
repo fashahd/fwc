@@ -16,7 +16,8 @@
 	<link rel="stylesheet" type="text/css" href="css/jPushMenu.css">
 	<link href='https://fonts.googleapis.com/css?family=Raleway:100,200,300,400%7COpen+Sans:400,300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/onepage.css">
-	<link rel="stylesheet" type="text/css" href="css/onepage.css">
+	<link rel="stylesheet" type="text/css" href="css/unslider.css">
+	<link rel="stylesheet" type="text/css" href="css/unslider-dots.css">
 
 	<link rel="stylesheet" type="text/css" href="slick/slick.css">
     <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
