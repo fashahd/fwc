@@ -30,9 +30,10 @@
             </div>
       </div>
     </div>
-    <div class="row">
+    <div class="row" >
 				<div class="col-md-12">
-					<hr>
+                    <hr>
+                    <br>
 					<p>copyright &copy 2017 feelwellceramics.com</p>
 				</div>
 		</div>

@@ -28,33 +28,41 @@
   </div>
 </section><!-- What We Do Section -->
 <section class="we-do bg-white padding">
-	<h2 style="text-align:center;color:#A3CD69;margin: -50px 0 30px 0">Pilihan Produk</h2>
+	<!-- <h2 style="text-align:center;color:#A3CD69;margin: -50px 0 30px 0">Pilihan Produk</h2> -->
   <div class="container">
     <div class="row">
 		<div class="col-lg-12">
 			<div class="slider">
 				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 					<img src="images/blue_sky.jpg" style="width:100%"></img> 
-					<div class="do-wrap text-center" style="color:#a3cd69">
-						<a href="#." class="readmore white-text">Sky Blue Closet</a>
+					<div class="text-center" style="color:#a3cd69">
+					<br />
+						<br />
+						<h4>Sky Blue Closet</h4>
 					</div> 
 				</div>
 				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 					<img src="images/pink.jpg" style="width:100%"></img> 
-					<div class="do-wrap text-center" style="color:#a3cd69">
-						<a href="#." class="readmore white-text">Pink Closet</a>
+					<div class="text-center" style="color:#a3cd69">
+						<br />
+						<br />
+						<h4>Pink Closet</h4>
 					</div>  
 				</div>
 				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 					<img src="images/opaque.jpg" style="width:100%"></img> 
-					<div class="do-wrap text-center" style="color:#a3cd69">
-						<a href="#." class="readmore white-text">Opaque Closet</a>
+					<div class="text-center" style="color:#a3cd69">
+					<br />
+						<br />
+						<h4>Opaque Closet</h4>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 					<img src="images/ivory.jpg" style="width:100%"></img> 
-					<div class="do-wrap text-center" style="color:#a3cd69">
-						<a href="#." class="readmore white-text">Ivory Closet</a>
+					<div class="text-center" style="color:#a3cd69">
+					<br />
+						<br />
+						<h4>Ivory Closet</h4>
 					</div>
 				</div>
 			</div>
@@ -70,15 +78,15 @@
 
 
 <!-- Responsive image with left -->
-<section id="responsive" class="padding" style="background:#d0e5b3">
-	<h2 style="text-align:center;color:#fff;margin: -50px 0 30px 0">Apa Kata Mereka</h2>
+<section id="responsive" style="background:#d0e5b3">
+	<h2 style="text-align:center;color:#fff; margin-top: -6%; margin-bottom: 3%; padding-top: 3%">Apa Kata Mereka</h2>
   <div class="container-fluid">
     <div class="row responsive-pic">
 		<div class="col-md-2 col-lg-2">
 		</div>
 		<div class="container wow fadeInRight" data-wow-duration="500ms" data-wow-delay="900ms">
 			<div class="row">
-				<div class="col-md-5 col-sm-5" style="background:#fff;padding:50px;margin-left:30px">
+				<div class="col-md-5 col-sm-5" style="background:#fff;padding:50px;margin-left:17%">
 					<div class="col-lg-10" style="margin-right:-10px">
 						<h3>“Setelah beli toilet FWC
 						untuk proyek saya, semua
@@ -97,12 +105,13 @@
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-3" style="margin-left:-17px"> 
-					<img src="images/testimoni.jpg" alt="fully responsive" class="img-responsive"> 
+					<img src="images/testimoni.jpg" alt="fully responsive" style="width: 98.2%;"> 
 				</div>
 			</div>
 		</div>
-		<div class="col-md-2 col-lg-2">
-		</div>
+	<div style="margin-bottom: 5%">
+	</div>
+	</div>
     </div>
   </div>
 </section>
@@ -121,14 +130,14 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-md-12">
-										<video src="movie.ogg" controls>
+										<video src="videos/video.MP4" style="width: 70%" controls>
 											Your browser does not support the video tag.
 										</video> 
 									</div>
 								</div>
 							</div>
 						</section> 
-					</div><br>
+					</div><div style="margin-bottom: 15%">
 				</div>
 			</div>
 		</div>
