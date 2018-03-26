@@ -759,6 +759,11 @@ ul.top-right li a:hover.instagram{
 	float: left;
 }
 
+.testimoni .text h3, h5, p{
+	text-transform: unset;
+	font-weight: 300;
+}
+
 .testimoni .avatar{
 	width: 30%;
 	margin: 0 auto;
