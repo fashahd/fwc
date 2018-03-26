@@ -806,11 +806,10 @@ ul.top-right li a:hover.instagram{
 	padding:5% 0 20% 0;
 }
 .produk-rotator{;
-	margin-top : 180px;
+	margin-top : 100px;
 	background:url("../images/fwc_centre.png");
 	padding-top:60px;
-	background-size:cover;
-	background-position:center center;
+	background-size: cover;
 	width:100%;
 }
 .produk-rotator #paralax-slider{

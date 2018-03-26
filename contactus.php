@@ -12,7 +12,7 @@
 </div>
 </div>
 <?php include 'header.php' ?>
-<section class="info-section" id="contact" style="background:#42484f;margin-top:180px">
+<section class="info-section" id="contact" style="background:#42484f;margin-top:140px">
 	<div class="row">
 		<div class="col-md-6 block text-left wow fadeInLeftBig" data-wow-duration="500ms" data-wow-delay="300ms">
 		<div class="center" style="color:#fff">
