@@ -13,22 +13,14 @@
 </div>
 </div>
 <?php include 'header.php' ?>
-<section class="text-rotator">
+<section class="text-rotator" style='background:url("../images/paralax-index1-en.jpg");'>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
 		  <div id="paralax-slider" class="owl-carousel">
 			<div class="item">
-				<div class="col-md-1">
-				</div>
-				<div class="col-md-11">
-					<div class="item-content text-left">
-						<p>Bersama Membangun Lingkungan Sehat</p>
-						<h2>KEBERSIHAN<br>UNTUK BERSAMA</h2>
-					</div>
-				</div>
-			</div>
-			
+				
+			</div>			
 		  </div>		  
       </div>
     </div>

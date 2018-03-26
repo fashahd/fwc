@@ -21,5 +21,5 @@
 	<link rel="stylesheet" type="text/css" href="../slick/slick.css">
     <link rel="stylesheet" type="text/css" href="../slick/slick-theme.css"/>
 
-	<link rel="shortcut icon" href="../images/favicon.png">
+	<link rel="shortcut icon" href="../images/logo-white.png">
 </head>

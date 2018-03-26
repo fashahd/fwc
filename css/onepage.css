@@ -816,6 +816,7 @@ ul.top-right li a:hover.instagram{
 }
 .text-rotator{
 	background:url("../images/paralax-index1.jpg");
+	margin-top: 130px;
 	padding-top:200px;
 	background-size:cover;
 	background-position:center center;

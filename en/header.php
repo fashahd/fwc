@@ -23,12 +23,12 @@
 				</div>
 			</div>
 			<hr>
-			<nav class="navbar navbar-default" style="margin-top:-30px;margin-bottom:-10px">
+			<nav class="navbar navbar-default" style="margin-top:-30px;">
 			<div class="navbar-header page-scroll">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fixed-collapse-navbar" aria-expanded="true"> 
 				<span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> 
 				</button>
-				<a href="index.php" class="navbar-brand logo" href="#."><img src="images/logo-white.png" alt="logo" class="img-responsive"></a> 
+				<a href="index.php" class="navbar-brand logo" href="#."><img src="images/logo-white.png" alt="logo" class="img-responsive" style="width:100px"></a> 
 			</div>
 			
 			
