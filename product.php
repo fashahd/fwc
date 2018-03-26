@@ -80,7 +80,7 @@
 			<div class="row">
 				<div class="col-md-5 col-sm-5" style="background:#fff;padding:50px;margin-left:30px">
 					<div class="col-lg-10" style="margin-right:-10px">
-						<h3>“Setelah beli toilet FWC
+						<h3 style="text-transform:unset">“Setelah beli toilet FWC
 						untuk proyek saya, semua
 						proyek lain saya hanya
 						mau pakai FWC saja.
