@@ -18,7 +18,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-		  <div id="paralax-slider" class="owl-carousel" style="height:1000px">
+		  <div id="paralax-slider" class="owl-carousel">
 			<div class="item">
 			</div>
 			
@@ -32,40 +32,62 @@
   <div class="container">
     <div class="row">
 		<div class="col-lg-12">
-			<div class="slider">
-				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-					<img src="images/blue_sky.jpg" style="width:100%"></img> 
-					<div class="text-center" style="color:#a3cd69">
-					<br />
-						<br />
-						<h4>Sky Blue Closet</h4>
-					</div> 
-				</div>
-				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-					<img src="images/pink.jpg" style="width:100%"></img> 
-					<div class="text-center" style="color:#a3cd69">
-						<br />
-						<br />
-						<h4>Pink Closet</h4>
-					</div>  
-				</div>
-				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-					<img src="images/opaque.jpg" style="width:100%"></img> 
-					<div class="text-center" style="color:#a3cd69">
-					<br />
-						<br />
-						<h4>Opaque Closet</h4>
+		<div class="slider">
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/blue_sky.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Sky Blue Closet</a>
+						</div> 
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div> 
+					</div>
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/pink.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Pink Closet</a>
+						</div> 
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div>  
+					</div>
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/opaque.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Opaque Closet</a>
+						</div> 
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div>  
+					</div>
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/ivory.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Ivory Closet</a>
+						</div>  
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div> 
+					</div>
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/ivory.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Ivory Closet</a>
+						</div>  
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div> 
+					</div>
+					<div class="col-lg-3 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+						<img src="images/ivory.jpg" style="width:100%"></img> 
+						<div class="do-wrap text-center" style="background:#a3cd69;color:#fff">
+							<a href="#." class="readmore white-text">Ivory Closet</a>
+						</div>  
+						<div class="do-wrap text-center" style="background:#a3cd69;margin-top:-20px">
+							<a href="product.php" class="btn" style="background:#fff;border-radius:25px">Lebih Lanjut</a>
+						</div> 
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-					<img src="images/ivory.jpg" style="width:100%"></img> 
-					<div class="text-center" style="color:#a3cd69">
-					<br />
-						<br />
-						<h4>Ivory Closet</h4>
-					</div>
-				</div>
-			</div>
 		</div>
     </div>
   </div>
@@ -78,42 +100,83 @@
 
 
 <!-- Responsive image with left -->
-<section id="responsive" style="background:#d0e5b3">
-	<h2 style="text-align:center;color:#fff; margin-top: -6%; margin-bottom: 3%; padding-top: 3%">Apa Kata Mereka</h2>
-  <div class="container-fluid">
-    <div class="row responsive-pic">
-		<div class="col-md-2 col-lg-2">
-		</div>
-		<div class="container wow fadeInRight" data-wow-duration="500ms" data-wow-delay="900ms">
-			<div class="row">
-				<div class="col-md-5 col-sm-5" style="background:#fff;padding:50px;margin-left:17%">
-					<div class="col-lg-10" style="margin-right:-10px">
-						<h3 style="text-transform:unset">“Setelah beli toilet FWC
-						untuk proyek saya, semua
-						proyek lain saya hanya
-						mau pakai FWC saja.
-						Barangnya kuat dan
-						mengkilap, pengiriman
-						cepat, dan harganya juga
-						bagus. Kalau pakai merk
-						lain, kadang satu dua 
-						produk yang harus di retur,
-						kalau FWC 100% kualitas
-						super.”</h3><br><br>
-						<p>Budiman Nyotowidjojo</p>
-						<h5><b>KONTRAKTOR</b></h5>
+<section id="responsive" class="padding" style="background:#d0e5b3">
+	<h2 style="text-align:center;color:#fff;margin: -50px 0 30px 0">Apa Kata Mereka</h2>
+	<div class="container-fluid">
+		<div class="row responsive-pic">
+			<div class="container wow fadeInRight" data-wow-duration="500ms" data-wow-delay="900ms">
+				<div class="row">
+					<div class="testi-slider">
+					<ul>
+						<li>
+							<div class="testimoni">
+								<div class="text">
+									<h3>“Setelah beli toilet FWC
+									untuk proyek saya, semua
+									proyek lain saya hanya
+									mau pakai FWC saja.
+									Barangnya kuat dan
+									mengkilap, pengiriman
+									cepat, dan harganya juga
+									bagus. Kalau pakai merk
+									lain, kadang satu dua 
+									produk yang harus di retur,
+									kalau FWC 100% kualitas
+									super.”</h3><br>
+									<p>Budiman Nyotowidjojo</p>
+									<h5><b>KONTRAKTOR</b></h5>
+								</div>
+								<div class="avatar">
+									<img src="images/testimoni.jpg" alt="fully responsive"> 
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="testimoni">
+								<div class="text">
+									<h3>“Pertama kali mendengar, saya 
+									agak ragu dengan perbedaan 
+										toilet FWC dan merek lainnya. 
+										Namun setelah melihat produknya
+										saya tertarik untuk mencoba. Memang 
+										benar setelah memakai toilet FWC, 
+										saya tidak lagi kesulitan BAB. Ukuran 
+										klosetnya 20% lebih besar sehingga 
+										sangat nyaman buat saya.”</h3><br>
+									<p>Diana Atmadja S.</p>
+									<h5><b>BETA TESTER FWC</b></h5>
+								</div>
+								<div class="avatar">
+									<img src="images/testimoni.jpg" alt="fully responsive"> 
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="testimoni">
+								<div class="text">
+									<h3>“Dari awal munculnya toilet jongkok FWC 
+										sudah jatuh hati karena harga ekonomis
+										tapi masalah kualitas sangat memberikan kepuasan bagi customer
+										karena dari segi warna tidak pudah, rapi, dan glossy. 
+										Selain itu dalam segi bentuk sangat memenuhi standar
+										toilet jongkok, sangat padat, dan berat. Sampai detik ini
+										pun customer saya tak pernah menerima komplain. Jadi
+										sampai sekarang tak akan berpindah hati ke merk lain dan
+										tak akan menjual merk lain.”</h3><br>
+									<p>Jhony</p>
+									<h5><b>KOTA KEMBANG</b></h5>
+								</div>
+								<div class="avatar">
+									<img src="images/testimoni.jpg" alt="fully responsive"> 
+								</div>
+								</div>
+						</li>
+					</ul>
 					</div>
-				</div>
-				<div class="col-md-3 col-sm-3" style="margin-left:-17px"> 
-					<img src="images/testimoni.jpg" alt="fully responsive" style="width: 98.2%;"> 
 				</div>
 			</div>
 		</div>
-	<div style="margin-bottom: 5%">
 	</div>
-	</div>
-    </div>
-  </div>
 </section>
 
 <!-- Paralax Effect Section -->
@@ -130,7 +193,7 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-md-12">
-										<video src="videos/video.MP4" style="width: 70%" controls>
+										<video src="videos/video.mp4" controls>
 											Your browser does not support the video tag.
 										</video> 
 									</div>
@@ -154,13 +217,33 @@
 <?php include 'sourcejs.php' ?>
 <script>
 	$('.slider').slick({
-    slidesToShow: 4,
-    slidesToScroll: 4,
-    dots: true,
-    infinite: true,
-    cssEase: 'linear',
-		arrows: true,
-});
+		slidesToShow: 4,
+		slidesToScroll: 4,
+		dots: true,
+		infinite: true,
+		cssEase: 'linear',
+			arrows: true,
+		responsive: [
+			{
+				breakpoint: 980, // tablet breakpoint
+				settings: {
+					slidesToShow: 3,
+					slidesToScroll: 3
+				}
+			},
+			{
+				breakpoint: 480, // mobile breakpoint
+				settings: {
+					slidesToShow: 2,
+					slidesToScroll: 2
+				}
+			}
+		]
+	});
+	$('.testi-slider').unslider({
+		// autoplay: true,
+		infinite: true,
+	});
 </script>
 </body>
 </html>

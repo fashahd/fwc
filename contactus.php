@@ -13,8 +13,8 @@
 </div>
 <?php include 'header.php' ?>
 <section class="info-section" id="contact" style="background:#42484f;margin-top:140px">
-	<div class="row">
-		<div class="col-md-6 block text-left wow fadeInLeftBig" data-wow-duration="500ms" data-wow-delay="300ms">
+  <div class="row">
+    <div class="col-md-6 block text-left wow fadeInLeftBig" data-wow-duration="500ms" data-wow-delay="300ms">
 		<div class="center" style="color:#fff">
 			<h2>Hubungi Kami</h2>
 			<p style="color:#fff">Jakarta, Indonesia</p>
@@ -25,10 +25,10 @@
 				<span href="#." class="youtube" style="margin-left:5px"><i class="fa fa-youtube-play"></i></span>
 				<span href="#." class="instagram" style="margin-left:5px"><i class="fa fa-instagram"></i></span>
 			</p>
-			<h4 style="margin-top:70px;line-height: 1.6;font-weight:200">FWC Melayani Pengiriman <br>Ke Seluruh Indonesia</h4>
+			<h3 style="margin-top:200px;line-height: 1.6;font-weight:200">FWC Melayani Pengiriman <br>Ke Seluruh Indonesia</h3>
 		</div>
-		</div>
-		<div class="col-md-6 block text-center wow fadeInRightBig" data-wow-duration="500ms" data-wow-delay="300ms">
+    </div>
+    <div class="col-md-6 block text-center wow fadeInRightBig" data-wow-duration="500ms" data-wow-delay="300ms">
 		<div class="center">
 			<div class="row" id="contact">
 				<form class="form-inline">
@@ -56,8 +56,8 @@
 				</form>
 			</div>
 		</div>
-		</div>
-	</div>
+    </div>
+  </div>
 </section>
 <?php include 'footer.php' ?>
 

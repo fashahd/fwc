@@ -65,24 +65,24 @@
 
 </div>
 <section id="slogan" class="wow fadeIn" data-wow-duration="500ms" data-wow-delay="300ms"> 
-    <div class="container" style="padding: 50px 0 50px 0">
+    <div class="container" style="padding: 120px 0 120px 0">
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <h5 class="hidden">hiddens</h5>
-                <p class="text-center">Melalui Program FWC Peduli, FWC menggunakan sebagian dari 
-                    keuntungan penjualan produk FWC untuk pembangunan toilet di wilayah yang belum 
-                    mendapatkan akses toilet untuk mewujudkan misi kami, Toilet Untuk Semua</p>
+                <p class="text-center">Melalui Program FWC Peduli, FWC menggunakan <br>sebagian dari 
+                    keuntungan penjualan produk FWC untuk <br>pembangunan toilet di wilayah yang belum 
+                    mendapatkan<br> akses toilet untuk mewujudkan misi kami, Toilet Untuk<br> Semua</p>
             </div>
         </div>
     </div>
 </section>
 <!-- Paralax Effect Section -->
-<section id="slogan" class="wow fadeIn" data-wow-duration="500ms" data-wow-delay="300ms"style="background:#ddd;color:rgb(163, 205, 105)"> 
+<section id="slogan" class="wow fadeIn" data-wow-duration="500ms" data-wow-delay="300ms"style="background:#e5e3e3;color:rgb(163, 205, 105)"> 
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <video src="movie.ogg" controls>
+                <video src="videos/video.mp4" controls style="width:100%">
                     Your browser does not support the video tag.
                 </video> 
             </div>

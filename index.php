@@ -121,6 +121,8 @@
 				<h4 style="color:#fff" >Pijakan Cepat Kering</h4>
 				<p style="color:#fff" >Pijakan dirancang sedikit miring untuk memastikan minimalnya air yang tergenang di area pijakan toilet.</p>
 			</div>
+		</div>
+		<div class="row">
 			<div class="col-md-6 col-sm-6 canvas-box magin30 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms"> 
 				<span class="text-center"><img src="images/shield.png"/></span>
 				<h4 style="color:#fff" >Bakteriostatis</h4>
@@ -159,7 +161,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 									lain, kadang satu dua 
 									produk yang harus di retur,
 									kalau FWC 100% kualitas
-									super.”</h3><br><br><br><br><br><br><br><br><br><br><br><br><br>
+									super.”</h3><br>
 									<p>Budiman Nyotowidjojo</p>
 									<h5><b>KONTRAKTOR</b></h5>
 								</div>
@@ -179,7 +181,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 										benar setelah memakai toilet FWC, 
 										saya tidak lagi kesulitan BAB. Ukuran 
 										klosetnya 20% lebih besar sehingga 
-										sangat nyaman buat saya.”</h3><br><br><br><br><br><br><br><br><br><br>
+										sangat nyaman buat saya.”</h3><br>
 									<p>Diana Atmadja S.</p>
 									<h5><b>BETA TESTER FWC</b></h5>
 								</div>
@@ -206,7 +208,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 								<div class="avatar">
 									<img src="images/testimoni.jpg" alt="fully responsive"> 
 								</div>
-								</div>
+							</div>
 						</li>
 					</ul>
 					</div>
@@ -222,9 +224,9 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 	<section id="bg-paralax">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-1 col-lg-1">
+				<div class="col-md-1 col-lg-1 col-xs-2">
 				</div>
-				<div class="col-md-5 col-sm-5" style="background:#a3cd69;padding:50px">
+				<div class="col-md-5 col-sm-5 col-xs-8" style="background:#a3cd69;padding:50px">
 					<h2>Tentang FWC Peduli</h2><br><br>
 					<p>Melalui Program FWC Peduli, FWC menggunakan
 	sebagian dari keuntungan penjualan produk FWC untuk
@@ -255,7 +257,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 				<div class="col-lg-4">
 					<div class="item"> 
 						<div class="image">
-							<video src="movie.ogg" controls>
+							<video src="videos/video.mp4" controls style="width:100%">
 								Your browser does not support the video tag.
 							</video> 
 						</div><br>
@@ -268,7 +270,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 				<div class="col-lg-4">
 					<div class="item"> 
 						<div class="image">
-							<video src="movie.ogg" controls>
+							<video src="videos/video.mp4" controls style="width:100%">
 								Your browser does not support the video tag.
 							</video> 
 						</div><br>
@@ -282,7 +284,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 				<div class="col-lg-4">
 					<div class="item"> 
 						<div class="image">
-							<video src="movie.ogg" controls>
+							<video src="videos/video.mp4" controls style="width:100%">
 								Your browser does not support the video tag.
 							</video> 
 						</div><br>
@@ -311,7 +313,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 				<span href="#." class="youtube" style="margin-left:5px"><i class="fa fa-youtube-play"></i></span>
 				<span href="#." class="instagram" style="margin-left:5px"><i class="fa fa-instagram"></i></span>
 			</p>
-			<h4 style="margin-top:70px;line-height: 1.6;font-weight:200">FWC Melayani Pengiriman <br>Ke Seluruh Indonesia</h4>
+			<h3 style="margin-top:200px;line-height: 1.6;font-weight:200">FWC Melayani Pengiriman <br>Ke Seluruh Indonesia</h3>
 		</div>
     </div>
     <div class="col-md-6 block text-center wow fadeInRightBig" data-wow-duration="500ms" data-wow-delay="300ms">
@@ -368,7 +370,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 				}
 			},
 			{
-				breakpoint: 480, // mobile breakpoint
+				breakpoint: 720, // mobile breakpoint
 				settings: {
 					slidesToShow: 2,
 					slidesToScroll: 2
