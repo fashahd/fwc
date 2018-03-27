@@ -522,6 +522,9 @@ ul.top-right li a:hover,
 	font-size: 12pt;
 	margin: 10px 0;
 }
+#navigation.afix .navbar-default .navbar-header img{
+	margin-top: 10px;
+}
 .navbar-default .navbar-nav > li > a:hover,
 #navigation.affix .navbar-default .navbar-nav > li > a:hover{
 	color:#07AAA5;
@@ -794,7 +797,7 @@ ul.top-right li a:hover.instagram{
 @media only screen and (max-width: 720px) {
     .testimoni{
 		width: 100%;
-		margin-left: 0px;
+		margin-left: 10px;
 		height: 600px;
 	}
 	
@@ -814,13 +817,19 @@ ul.top-right li a:hover.instagram{
 	}
 
 	.testimoni .avatar{
-		width: 50%;
-		margin: 0 auto;
-		display: inline-block;
+		width: 150px;
+		height: 150px;
+		position: relative;
+		overflow: hidden;
+		border-radius: 50%;
+		margin-left: 10px;
 	}
 	
 	.testimoni .avatar img{
-		height: 600px;
+		display: inline;
+		margin: 0 auto;
+		width: 100%;
+		height: auto;
 	}
 }
 
