@@ -79,7 +79,7 @@
 
 .slick-prev
 {
-    left: -25px;
+    left: -14px;
 }
 [dir='rtl'] .slick-prev
 {
@@ -97,7 +97,7 @@
 
 .slick-next
 {
-    right: -25px;
+    right: -8px;
 }
 [dir='rtl'] .slick-next
 {
@@ -205,4 +205,11 @@
 .slick-prev:before, .slick-next:before{
     color:rgba(0,0,0,0.2);
     font-size: 20pt;
+}
+
+@media only screen and (max-width: 720px) {
+    .slick-prev
+    {
+        left: -13px;
+    }
 }
