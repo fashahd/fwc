@@ -159,7 +159,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 									lain, kadang satu dua 
 									produk yang harus di retur,
 									kalau FWC 100% kualitas
-									super.”</h3><br><br>
+									super.”</h3><br><br><br><br><br><br><br><br><br><br><br><br><br>
 									<p>Budiman Nyotowidjojo</p>
 									<h5><b>KONTRAKTOR</b></h5>
 								</div>
@@ -171,25 +171,42 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 						<li>
 							<div class="testimoni">
 								<div class="text">
-									<h3>“Setelah beli toilet FWC
-									untuk proyek saya, semua
-									proyek lain saya hanya
-									mau pakai FWC saja.
-									Barangnya kuat dan
-									mengkilap, pengiriman
-									cepat, dan harganya juga
-									bagus. Kalau pakai merk
-									lain, kadang satu dua 
-									produk yang harus di retur,
-									kalau FWC 100% kualitas
-									super.”</h3><br><br>
-									<p>Budiman Nyotowidjojo</p>
-									<h5><b>KONTRAKTOR</b></h5>
+									<h3>“Pertama kali mendengar, saya 
+									agak ragu dengan perbedaan 
+										toilet FWC dan merek lainnya. 
+										Namun setelah melihat produknya
+										saya tertarik untuk mencoba. Memang 
+										benar setelah memakai toilet FWC, 
+										saya tidak lagi kesulitan BAB. Ukuran 
+										klosetnya 20% lebih besar sehingga 
+										sangat nyaman buat saya.”</h3><br><br><br><br><br><br><br><br><br><br>
+									<p>Diana Atmadja S.</p>
+									<h5><b>BETA TESTER FWC</b></h5>
 								</div>
 								<div class="avatar">
 									<img src="images/testimoni.jpg" alt="fully responsive"> 
 								</div>
 							</div>
+						</li>
+						<li>
+							<div class="testimoni">
+								<div class="text">
+									<h3>“Dari awal munculnya toilet jongkok FWC 
+										sudah jatuh hati karena harga ekonomis
+										tapi masalah kualitas sangat memberikan kepuasan bagi customer
+										karena dari segi warna tidak pudah, rapi, dan glossy. 
+										Selain itu dalam segi bentuk sangat memenuhi standar
+										toilet jongkok, sangat padat, dan berat. Sampai detik ini
+										pun customer saya tak pernah menerima komplain. Jadi
+										sampai sekarang tak akan berpindah hati ke merk lain dan
+										tak akan menjual merk lain.”</h3><br>
+									<p>Jhony</p>
+									<h5><b>KOTA KEMBANG</b></h5>
+								</div>
+								<div class="avatar">
+									<img src="images/testimoni.jpg" alt="fully responsive"> 
+								</div>
+								</div>
 						</li>
 					</ul>
 					</div>
