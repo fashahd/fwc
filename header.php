@@ -35,7 +35,7 @@
 							<a href="./" class="navbar-brand logo" href="#."><img src="images/logo-white.png" alt="logo" class="img-responsive" style="width:100px"></a> 
 						</div>			
 						<div id="fixed-collapse-navbar" class="navbar-collapse collapse navbar-right">
-							<ul class="nav navbar-nav">
+							<ul class="nav navbar-nav menu">
 								<li class="hidden">
 									<a class="page-scroll" href="#page-top"></a>
 								</li>
@@ -44,9 +44,21 @@
 								</li>
 								<li>
 									<a class="page-scroll" href="product.php" >Produk</a>
+									<ul class="sub-menu">
+										<li><a href="product.php#product">Pilihan Produk</a></li>
+										<li><a href="product.php#slogan">Mengapa Kloset Jongkok</a></li>
+										<li><a href="#">Keunggulan Produk FWC</a></li>
+										<li><a href="product.php#responsive">Apa Kata Mereka</a></li>
+									</ul>
 								</li>
 								<li>
 									<a href="about.php"  class="page-scroll">Tentang FWC</a>
+									<ul class="sub-menu">
+										<li><a href="about.php#bg-about">Toilet Untuk Semua</a></li>
+										<li><a href="about.php#video">Video Kami</a></li>
+										<li><a href="about.php#fwc-peduli">FWC Peduli</a></li>
+										<li><a href="#">Mengapa FWC Peduli</a></li>
+									</ul>
 								</li>					
 								<li>
 									<a href="contactus.php" class="page-scroll">Hubungi Kami</a>

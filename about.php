@@ -52,7 +52,7 @@
 
 </div>
 <!-- Paralax Effect Section -->
-<div style="position:relative;">
+<div style="position:relative;" id="fwc-peduli">
     <section id="bg-paralax">
         <div class="container">
             <div class="row">
@@ -78,7 +78,7 @@
     </div>
 </section>
 <!-- Paralax Effect Section -->
-<section id="slogan" class="wow fadeIn" data-wow-duration="500ms" data-wow-delay="300ms"style="background:#e5e3e3;color:rgb(163, 205, 105)"> 
+<section id="video" class="wow fadeIn padding" data-wow-duration="500ms" data-wow-delay="300ms"style="background:#e5e3e3;color:rgb(163, 205, 105)"> 
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">

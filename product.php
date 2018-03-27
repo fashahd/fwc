@@ -27,7 +27,7 @@
     </div>
   </div>
 </section><!-- What We Do Section -->
-<section class="we-do bg-white padding">
+<section class="we-do bg-white padding" id="product">
 	<!-- <h2 style="text-align:center;color:#A3CD69;margin: -50px 0 30px 0">Pilihan Produk</h2> -->
   <div class="container">
     <div class="row">
