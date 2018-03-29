@@ -39,8 +39,6 @@
     <div id="bg-about"></div>
     <div class="container">
         <div class="row">
-            <!-- <div class="col-md-7 col-lg-7"> -->
-            </div>
             <div class = "col-md-12 col-sm-12">
                 <h2 style="text-align: right">Toilet Untuk Semua</h2>
                 <h4 style="text-align: right;line-height:2">Seperti namanya, FWC berkomitmen untuk senantiasa<h4 style="text-align: right;line-height:2"> membuat semua pelanggan kami<i><b> feel well </b></i>saat <h4 style="text-align: right;line-height:2">memakai
@@ -52,33 +50,27 @@
 
 </div>
 <!-- Paralax Effect Section -->
-<div style="position:relative;">
+<div style="position:relative;" id="fwc-peduli">
     <section id="bg-paralax">
         <div class="container">
             <div class="row">
-                <div class="col-md-5 col-sm-5" style="padding-bottom: 280px" id="fwc_peduli">
+                <div class="col-md-5 col-sm-5" id="fwc_peduli">
                     <h1>FWC Peduli</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-5 col-sm-5 col-xs-7" style="background:#82b440 ;padding: 3%;margin-top:30px;margin-left:20px;text-align:left;line-height:2" id="fwc_peduli">
+                <p>Melalui Program FWC Peduli,<br> FWC menggunakan sebagian dari 
+                    keuntungan penjualan produk FWC untuk pembangunan toilet di wilayah yang belum 
+                    mendapatkan akses toilet untuk mewujudkan misi kami, Toilet Untuk Semua</p>
                 </div>
             </div>
         </div>
     </section>
 
 </div>
-<section id="slogan" class="wow fadeIn" data-wow-duration="500ms" data-wow-delay="300ms"> 
-    <div class="container" style="padding: 120px 0 120px 0">
-        <div class="row">
-            <div class="col-md-2"></div>
-            <div class="col-md-8">
-                <h5 class="hidden">hiddens</h5>
-                <p class="text-center">Melalui Program FWC Peduli, FWC menggunakan <br>sebagian dari 
-                    keuntungan penjualan produk FWC untuk <br>pembangunan toilet di wilayah yang belum 
-                    mendapatkan<br> akses toilet untuk mewujudkan misi kami, Toilet Untuk<br> Semua</p>
-            </div>
-        </div>
-    </div>
-</section>
 <!-- Paralax Effect Section -->
-<section id="slogan" class="wow fadeIn" data-wow-duration="500ms" data-wow-delay="300ms"style="background:#e5e3e3;color:rgb(163, 205, 105)"> 
+<section id="video" class="wow fadeIn padding" data-wow-duration="500ms" data-wow-delay="300ms"style="background:#e5e3e3;color:rgb(163, 205, 105)"> 
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
