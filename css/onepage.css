@@ -527,14 +527,14 @@ ul.top-right li a:hover,
 }
 .navbar-default .navbar-nav > li > a:hover,
 #navigation.affix .navbar-default .navbar-nav > li > a:hover{
-	color:#07AAA5;
+	color:#82b440;
 	background-color:fff;
 }
 .navbar-default .navbar-nav > .active a, .navbar-default .navbar-nav > .active a:hover,
 .navbar-default .navbar-nav > .active a:focus,
 #navigation.affix .navbar-default .navbar-nav > .active a, #navigation.affix .navbar-default .navbar-nav > .active a:hover,
 #navigation.affix .navbar-default .navbar-nav > .active a:focus{
-	color:#07AAA5;
+	color:#82b440;
 	border-bottom:3px solid #82b440;
 	background-color:transparent;
 }
@@ -808,6 +808,7 @@ ul.top-right li a:hover.instagram{
 		margin: 0 auto;
 		float: left;
 		height: 600px;
+		padding-top: 120px;
 	}
 	
 	.testimoni > .text > h3, h5, p{
@@ -818,12 +819,13 @@ ul.top-right li a:hover.instagram{
 	}
 
 	.testimoni .avatar{
-		width: 80px;
-		height: 80px;
+		width: 100px;
+		height: 100px;
 		position: absolute;
 		overflow: hidden;
 		border-radius: 50%;
-		margin-left: 16%;
+		margin-top: 10px;
+		margin-left: 8%;
 		border: 
 		/* margin-left: 10px; */
 	}
