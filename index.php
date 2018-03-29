@@ -97,6 +97,7 @@
 
 <!--What We Offer-->
 <section class="section-padding padding" id="about" style="background:#a3cd69">
+	<h3 style="text-align:center;color:#fff;margin: -50px 0 30px 0;font-size:18pt">Keunggulan Produk FWC</h3>
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-sm-6 canvas-box magin30 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms"> 
@@ -226,7 +227,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 			<div class="row">
 				<div class="col-md-1 col-lg-1 col-xs-2">
 				</div>
-				<div class="col-md-5 col-sm-5 col-xs-8" style="background:#a3cd69;padding:50px">
+				<div class="col-md-5 col-sm-5 col-xs-8" style="background:#a3cd69;padding:5%">
 					<h2>Tentang FWC Peduli</h2><br><br>
 					<p>Melalui Program FWC Peduli, FWC menggunakan
 	sebagian dari keuntungan penjualan produk FWC untuk
@@ -275,10 +276,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 							</video> 
 						</div><br>
 						<h4 style="color:#a3cd69">FWC Peduli</h4>
-						<p>Together with students of University of
-						Indonesia, FWC built toilets for
-						Panyaungan Town in South of Banten in
-						June 2016.</p> 
+						<p>Bersama mahasiswa Universitas Indonesia, FWC membangun toilet utuk Kota Panyaungan di Banten Selatan pada Bulan Juni 2016.</p> 
 					</div>
 				</div>
 				<div class="col-lg-4">
@@ -289,10 +287,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 							</video> 
 						</div><br>
 						<h4 style="color:#a3cd69">Manfaat Toilet Sehat</h4>
-						<p>Do you know that humans are created to
-						squat when defecating? Find out the
-						importance of your position while
-						defecating together with FWC.</p> 
+						<p>Tahukah kamu bahwa manusia diciptakan untuk berjongkok ketika BAB? Cari tahu pentingnya posisi kamu saat BAB, bersama FWC.</p> 
 					</div>
 				</div>
 			</div>
@@ -313,7 +308,7 @@ posisi usus menjadi lurus dan kotoran lebih mudah keluar.</p>
 				<span href="#." class="youtube" style="margin-left:5px"><i class="fa fa-youtube-play"></i></span>
 				<span href="#." class="instagram" style="margin-left:5px"><i class="fa fa-instagram"></i></span>
 			</p>
-			<h3 style="margin-top:200px;line-height: 1.6;font-weight:200">FWC Melayani Pengiriman <br>Ke Seluruh Indonesia</h3>
+			<h3 class="footer-fwc">FWC Melayani Pengiriman <br>Ke Seluruh Indonesia</h3>
 		</div>
     </div>
     <div class="col-md-6 block text-center wow fadeInRightBig" data-wow-duration="500ms" data-wow-delay="300ms">

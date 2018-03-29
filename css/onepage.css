@@ -804,25 +804,28 @@ ul.top-right li a:hover.instagram{
 	.testimoni .text{
 		background: #fff;
 		padding: 35px;
-		width : 50%;
+		width : 95%;
 		margin: 0 auto;
 		float: left;
 		height: 600px;
 	}
 	
-	.testimoni .text h3, h5, p{
+	.testimoni > .text > h3, h5, p{
 		text-transform: unset;
 		font-weight: 300;
-		font-size: 10pt;
+		font-size: 12pt;
+		/* padding-right: 50px; */
 	}
 
 	.testimoni .avatar{
-		width: 150px;
-		height: 150px;
-		position: relative;
+		width: 80px;
+		height: 80px;
+		position: absolute;
 		overflow: hidden;
 		border-radius: 50%;
-		margin-left: 10px;
+		margin-left: 16%;
+		border: 
+		/* margin-left: 10px; */
 	}
 	
 	.testimoni .avatar img{
@@ -1038,7 +1041,7 @@ ul.top-right li a:hover.instagram{
 .myDiv{
 	position:relative; 
 	z-index: 1;
-	padding:200px 0 200px 0;
+	padding:100px 0 150px 0;
 }
 .myDiv #bg-about {
 	position: absolute;
@@ -1984,6 +1987,17 @@ ul.top-right li a:hover.instagram{
 	background:transparent;
 	color: #fff;
 }
+#contact h3{
+	margin-top:200px;line-height: 1.6;font-weight:200
+}
+
+
+@media screen and (max-width: 880px){
+	#contact h3 {
+		margin-top:80px;line-height: 1.6;font-weight:200;
+		margin-bottom: -100px;
+	}
+}
 /* ------------ Contact Us ------------ */
 
 
@@ -2617,7 +2631,7 @@ margin-top: 30px;
   padding: 8px 15px;
 }
 .about-rotator {
-	padding-top:80px;
+	padding-top:150px;
 }
 .produk-rotator {
 	padding-top:0px;

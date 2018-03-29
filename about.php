@@ -39,8 +39,6 @@
     <div id="bg-about"></div>
     <div class="container">
         <div class="row">
-            <!-- <div class="col-md-7 col-lg-7"> -->
-            </div>
             <div class = "col-md-12 col-sm-12">
                 <h2 style="text-align: right">Toilet Untuk Semua</h2>
                 <h4 style="text-align: right;line-height:2">Seperti namanya, FWC berkomitmen untuk senantiasa<h4 style="text-align: right;line-height:2"> membuat semua pelanggan kami<i><b> feel well </b></i>saat <h4 style="text-align: right;line-height:2">memakai

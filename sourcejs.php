@@ -20,3 +20,16 @@
 <script src="js/functions.js"></script>
 <script src="js/unslider.js"></script>
 <script src="slick/slick.min.js"></script>
+<script>
+if (navigator.userAgent.match(/Mobile/)) {
+    $("#subproduk").hide();
+    $("#subabout").hide();
+    
+    $("#topproduk").click(function(){
+        $("#subproduk").toggle();
+    })
+    $("#topabout").click(function(){
+        $("#subabout").toggle();
+    })
+}
+</script>
