@@ -9,7 +9,7 @@
 						<!--<li><a href="#." class="facebook"><i class="fa fa-facebook"></i></a></li>
 						<li><a href="#." class="twitter"><i class="fa fa-twitter"></i></a></li>
 						<li><a href="#." class="instagram"><i class="icon-instagram"></i></a></li>-->
-						<p><i class="fa fa-envelope-o"></i> info@feelwellceramics.com &nbsp &nbsp &nbsp<i class="fa fa-whatsapp"></i>  +62 818 678986</p>
+						<div class="col-md-5"><p><i class="fa fa-envelope-o"></i> info@feelwellceramics.com</div><div class="col-md-6"><p><i class="fa fa-whatsapp"></i>  +62 818 678986</p></div>
 					</div>
 					<div class="col-lg-4 text-right">
 						<p>
@@ -45,17 +45,17 @@
 								<li>
 									<a class="page-scroll" href="#" id="topproduk">Produk</a>
 									<ul class="sub-menu" id="subproduk">
+										<li><a href="product.php">Keunggulan Produk FWC</a></li>
 										<li><a href="product.php#product">Pilihan Produk</a></li>
-										<li><a href="product.php#slogan">Mengapa Kloset Jongkok</a></li>
-										<li><a href="#">Keunggulan Produk FWC</a></li>
 										<li><a href="product.php#responsive">Apa Kata Mereka</a></li>
+										<li><a href="product.php#slogan">Mengapa Kloset Jongkok</a></li>
 									</ul>
 								</li>
 								<li>
 									<a href="#"  class="page-scroll" id="topabout">Tentang FWC</a>
 									<ul class="sub-menu" id="subabout">
+										<li><a href="about.php">Sekilas Tentang FWC</a></li>
 										<li><a href="about.php#bg-about">Toilet Untuk Semua</a></li>
-										<li><a href="about.php#video">Video Kami</a></li>
 										<li><a href="about.php#fwc-peduli">FWC Peduli</a></li>
 										<li><a href="#">Mengapa FWC Peduli</a></li>
 									</ul>

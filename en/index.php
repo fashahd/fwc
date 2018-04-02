@@ -13,7 +13,7 @@
 </div>
 </div>
 <?php include 'header.php' ?>
-<section class="text-rotator">
+<section class="text-rotator-en">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
