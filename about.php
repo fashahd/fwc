@@ -17,14 +17,12 @@
         <div class="col-md-12">
             <div id="paralax-slider" class="owl-carousel">
                 <div class="item">
-                    <div class="col-md-6">
+                    <div class="col-md-5">
                         <div class="item-content text-left">
                             <h3>Sekilas Tentang FWC</h3><br>
-                            <h4>FWC bergerak dalam bisnis sanitasi dengan fokus</h4>
-                            <h4>estetika, ergonomis, dan fungsional. Kami Berusaha<h4>
-                                sebaik mungkin untuk memberikan <b>produk terbaik</b></h4>
-                                <h4> untuk konsumen dengan <b>harga terjangkau</b>. Karena <h4>kami percaya bahwa
-                                setiap orang berhak memiliki rasa<h4> nyaman dan menikmati hidup nyaman.
+                            <h4>FWC bergerak dalam bisnis sanitasi dengan fokus estetika, ergonomis, dan fungsional. Kami Berusaha
+                                sebaik mungkin untuk memberikan <b>produk terbaik</b> untuk konsumen dengan <b>harga terjangkau</b>. Karena kami percaya bahwa
+                                setiap orang berhak memiliki rasa nyaman dan menikmati hidup nyaman.
                             </h4>
                         </div>
                     </div>
@@ -39,11 +37,15 @@
     <div id="bg-about"></div>
     <div class="container">
         <div class="row">
-            <div class = "col-md-12 col-sm-12">
+            <div class = "col-md-7">
+			</div>
+            <div class = "col-md-5">
                 <h2 style="text-align: right">Toilet Untuk Semua</h2>
-                <h4 style="text-align: right;line-height:2">Seperti namanya, FWC berkomitmen untuk senantiasa<h4 style="text-align: right;line-height:2"> membuat semua pelanggan kami<i><b> feel well </b></i>saat <h4 style="text-align: right;line-height:2">memakai
-                produk kami. FWC percaya bahwa semua <h4 style="text-align: right;line-height:2">orang di setiap kalangan berhak menikmati<h4 style="text-align: right;line-height:2"> kenyamanan dan langkah pertama menuju 
-                hidup <h4 style="text-align: right;line-height:2">nyaman di setiap keluarga adalah dengan memberikan <h4 style="text-align: right;line-height:2">akses <span class="font-color">Toilet Untuk Semua</span></h4>
+                <h4 style="text-align: right;line-height:2">Seperti namanya, FWC berkomitmen untuk senantiasa 
+				membuat semua pelanggan kami<i><b> feel well </b></i>saat memakai
+                produk kami. FWC percaya bahwa semua orang di setiap kalangan berhak menikmati
+				kenyamanan dan langkah pertama menuju nyaman di setiap keluarga adalah dengan memberikan 
+				akses <span class="font-color">Toilet Untuk Semua</span></h4>
             </div>
         </div>
     </div>

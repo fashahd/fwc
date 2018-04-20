@@ -474,9 +474,6 @@ ul.top-right li a:hover,
 	z-index:999;
 	width: 100%;
 }
-#main-navigation p {
-	font-size: 14pt;
-}
 #navigation {
 	background:#fff;
 }
@@ -910,7 +907,7 @@ ul.top-right li a:hover.instagram{
 @media only screen and (max-width: 720px) {
 	.produk-rotator{
 		background:url("../images/fwc_centre_small.png") no-repeat;
-		background-size: 120%;
+		background-size: 95%;
 		background-position: center;
 		/* margin-top :-130px; */
 	}
@@ -2016,7 +2013,6 @@ footer{
 }
 footer h5{
 	font-weight: 600;
-	margin-bottom: 40px;
 }
 footer p{
 	margin:0;
@@ -2511,7 +2507,9 @@ ul.category li a .date{
 }
 
 
-
+.contact-header-right p{
+	text-align: right;
+}
 
 @media screen and (max-width: 1299px){
     .navbar-default .navbar-nav > li{
@@ -2603,16 +2601,25 @@ margin-top: 30px;
 		
 }
 
-
-
 @media screen and (max-width: 767px){
+
+	.contact-header-left p{
+		font-size: 12px;
+	}
+
+
+	.contact-header-right p{
+		text-align: left;
+		font-size: 12px;
+		margin-left: 9px;
+	}
 
   h2{ font-size:30px; }
   #main-navigation{ background-color: #1b1d1f; }
   
   .navbar-brand, #navigation.affix .navbar-brand{ display:inline-block;  padding: 10px 0;}
   .navbar-default .navbar-nav > li > a, #navigation.affix  .navbar-default .navbar-nav > li > a {
-	  padding: 10px 0;
+	  padding: 5px 0;
 	}
    ul.top-right, #navigation.affix ul.top-right{
 		margin:0;
@@ -2712,13 +2719,8 @@ margin-top: 30px;
 	}
 	.circliful:first-child {
 	  margin-left: 0;
-	}
-	
-	
-	
-		
+	}		
 }
-
 
 @media screen and (min-width: 641px) and (max-width: 767px) { 
 
@@ -2735,9 +2737,6 @@ margin-top: 30px;
 	  
    
 }
-
-
-
 
 @media screen and (max-width: 480px) {
 	.navbar-brand img{

@@ -118,3 +118,15 @@
     font-size: 50px;
     color:rgba(0,0,0,0.2);
 }
+@media only screen and (max-width: 720px) {
+  .unslider-arrow.prev:before {
+      content: '<';
+      font-size: 20px;
+      color:rgba(0,0,0,0.2);
+  }
+  .unslider-arrow.next:before {
+      content: '>';
+      font-size: 20px;
+      color:rgba(0,0,0,0.2);
+  }
+}

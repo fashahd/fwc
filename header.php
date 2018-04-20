@@ -5,13 +5,10 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="row" style="margin-top:10px;margin-bottom:-20px">
-					<div class="col-lg-8">
-						<!--<li><a href="#." class="facebook"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="#." class="twitter"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="#." class="instagram"><i class="icon-instagram"></i></a></li>-->
-						<div class="col-md-5"><p><i class="fa fa-envelope-o"></i> info@feelwellceramics.com</div><div class="col-md-6"><p><i class="fa fa-whatsapp"></i>  +62 818 678986</p></div>
+					<div class="col-lg-8 col-xs-12 contact-header-left">
+						<div class="col-md-5 col-xs-7"><p><i class="fa fa-envelope-o"></i> info@feelwellceramics.com</div><div class="col-md-6 col-xs-5"><p><i class="fa fa-whatsapp"></i>  +62 818 678986</p></div>
 					</div>
-					<div class="col-lg-4 text-right">
+					<div class="col-lg-4 contact-header-right">
 						<p>
 							<a href="#." class="facebook" style="margin-left:5px"><i class="fa fa-facebook"></i></a>
 							<a href="#." class="twitter" style="margin-left:5px"><i class="fa fa-youtube-play"></i>
